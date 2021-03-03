@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* typography styles */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+html {
+    font-size: 1rem;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+em {
+    
+}
+
+#pageHeader p {
+    font-size: 1.25rem;
+}
+/* layout styles */
+main {
+    margin: 0 auto;
+    max-width: 50rem;
+}
+
+section {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+#pageHeader {
+    margin: 0 auto 1rem auto;
+    padding: 1rem;
+    max-width: 50rem; /* should match max-width of main */
+}
