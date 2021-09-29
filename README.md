@@ -10,14 +10,14 @@ _Tip: remember that when using a third-party font service you need to set the fo
 
 ## Tasks
 - Create a "Web Project" in Adobe Fonts/Typekit that includes:
-  - "Mr Eaves San" Book, Book Italic and Bold
-  - "Mrs Eaves XL Serif" Regular, Regular Italic
+  - "Source Sans Pro" Regular, Italic and Bold
+  - "Source Serif Pro" Light, Light Italic
 - Embed the "web project" stylesheet in your HTML file
-- Set the default font to be "Mrs Eaves XL Serif" regular. Use Georgia as the backup web-safe font.
+- Set the default font to be "Source Sans Pro" regular. Use Verdana as a backup web-safe font. 
   - Turn on ligatures and old style figures by default
-- Set "Mr Eaves San" Book to be the default heading font. Use Verdana as the backup web-safe font. Turn off the ligatures and old style figures and turn on lining figures.
-- By default the emphasis tag is italic. Change the font-style to be normal and turn on small caps.
-- Change the weight of the "example" class to be the bold version of "Mr Eaves San"
+- Set "Source Serif Pro" Light to be the default heading font. Use Georgia as the backup web-safe font. Turn off the ligatures and old style figures and use lining figures.
+- By default the emphasis tag is italic. Change the font-style to be normal and bold.
+- Change the weight of the "example" class to be the Light Italic of "Source Serif Pro"
 - Publish the site live and submit URL on Blackboard
 
 ## Resources
